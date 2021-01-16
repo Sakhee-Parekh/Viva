@@ -14,21 +14,142 @@ html,body{
     text-decoration: none !important;
 }
 
-.home{
-    position: relative;
-    text-align: center;
-}
-
-.home img{
+.big{
     width: 100%;
+    position: absolute;
     z-index: 1;
 }
 
-.home h1{
-    position: absolute; 
-    letter-spacing: 50px;
+.small{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 90%;
+    left: 90%;
+}
+
+
+.big1{
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+.small1{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 90%;
+    left: 90%;
+}
+
+h1{
     font-family: zooja-pro, sans-serif;
     font-weight: 400;
     font-style: normal;
-    z-index: 100;  
+    font-size: 150px;
+    margin-top: 60px !important;
+    padding-left: 137px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.welcome h3{
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: -120px !important;
+    font-size: 25px;
+    padding-left: 287px;
+    letter-spacing: 10px;
+    margin-bottom: 70px;
+    color: #707070;
+}
+
+.welcome .button1{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+
+}
+
+.welcome:hover .button1{
+    background-color: #fcd5ce;
+}
+
+/* .welcome:focus .button1, .welcome:active .button1{
+    background-color: #fae1dd;
+} */
+
+.welcome .button2{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.welcome:hover .button2{
+    background-color: #fcd5ce;
+}
+
+/* .welcome:focus .button2, .welcome:active .button2{
+    background-color: #fae1dd;
+} */
+
+.welcome .button3{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.welcome:hover .button3{
+    background-color: #fcd5ce;
+}
+
+
+.go1{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 35%;
+    left: 90%;
+}
+
+.go2{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 55%;
+    left: 90%;
+}
+
+.go3{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 75%;
+    left: 90%;
 }
