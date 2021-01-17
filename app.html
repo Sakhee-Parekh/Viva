@@ -4,13 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Stress Relief</title>
+    <style>
+        @import url("https://use.typekit.net/cnm5sax.css");
+    </style>    
+    <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
 
-    <h1>What’s Making You Anxious?</h1>
+    <h1>What's Causing You Stress?</h1>
 
-    <form action="/" method="POST" id="choiceForm">
+    <!-- <form action="/" method="POST" id="choiceForm">
         <h3>School</h3>
         <input type="radio" id="yesBtn1" name="field1" value="0">
         <label for="yesBtn1">Yes</label>
@@ -48,33 +52,31 @@
 
         <br><br>
         <button id="submitBtn">Submit</button>
-    </form>
+    </form> -->
 
-    <div style="display: none;" id="videoDiv">
+    <!-- <div style="display: none;" id="videoDiv">
         <iframe width="420" height="315" src="" id="videoFrame">
         </iframe> 
+    </div> -->
+
+    <div class="dropdown">
+        <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+        <div id="myDropdown" class="dropdown-content">
+          <a href="school.html">School</a>
+          <a href="rel.html">Relationships</a>
+          <a href="past.html">Past Experiences</a>
+          <a href="life.html">Life Changes</a>
+          <a href="future.html">Future Plans</a>
+        </div>
     </div>
 
-    <div style="display: none;" id="videoDiv2">
-        <iframe width="420" height="315" src="" id="videoFrame2">
-        </iframe> 
-    </div>
+    <a href="calendar.html"><img src="./Images/Component 4 – 1.png" alt="arrow" class="small10"></a>
+    <a href="home.html"><img src="./Images/Component 3 – 1.png" alt="arrow" class="homebtn10"></a>
+    <a href="podcast.html"><img src="./Images/Component 5 – 1.png" alt="arrow" class="songbtn10"></a>
+    <a href="welcome.html"><img src="./Images/back.png" alt="arrow" class="backbtn10"></a>
 
-    <div style="display: none;" id="videoDiv3">
-        <iframe width="420" height="315" src="" id="videoFrame3">
-        </iframe> 
-    </div>
+      
 
-    <div style="display: none;" id="videoDiv4">
-        <iframe width="420" height="315" src="" id="videoFrame4">
-        </iframe> 
-    </div>
-
-    <div style="display: none;" id="videoDiv5">
-        <iframe width="420" height="315" src="" id="videoFrame5">
-        </iframe> 
-    </div>
-
-    <script src="form.js"></script>
+    <script src="app.js"></script>
 </body>
 </html>

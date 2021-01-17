@@ -377,6 +377,28 @@ h1{
     z-index: 5;
 }
 
+/* .txt{
+    width: 500px;
+    z-index: 5;
+    position: absolute;
+} */
+
+.aff h3{
+    width: 800px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 360px !important;
+    font-size: 25px;
+    padding-left: 137px;
+    letter-spacing: 5px;
+    margin-bottom: 70px;
+    color: #707070;
+    position: absolute;
+    z-index: 5;
+}
+
+
 .he{
     width: 30%;
     left: 60%;
@@ -413,4 +435,626 @@ h1{
     position: absolute;
     z-index: 10;
     margin-top: -20% !important;
+}
+
+/* Health */
+
+.backbtn2{
+    width: 6%;
+    position: absolute;
+    margin-bottom: 10%;
+    padding-bottom: 3%;
+    z-index: 2;
+    top: 91%;
+    left: 8%;
+}
+
+.health h1{
+    font-family: zooja-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px;
+    margin-top: 60px !important;
+    padding-left: 137px;
+    letter-spacing: 10px;
+    color: #707070;
+    position: absolute;
+    z-index: 5;
+}
+
+.health-one{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 150px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.health-two{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 780px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.health-three{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 1400px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+/* Wealth */
+
+.backbtn3{
+    width: 6%;
+    position: absolute;
+    margin-bottom: 10%;
+    padding-bottom: 3%;
+    z-index: 2;
+    top: 91%;
+    left: 8%;
+}
+
+.wealth h1{
+    font-family: zooja-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px;
+    margin-top: 60px !important;
+    padding-left: 137px;
+    letter-spacing: 10px;
+    color: #707070;
+    position: absolute;
+    z-index: 5;
+}
+
+.wealth-one{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 150px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.wealth-two{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 780px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.wealth-three{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 1400px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+/* Happiness */
+
+.backbtn4{
+    width: 6%;
+    position: absolute;
+    margin-bottom: 10%;
+    padding-bottom: 3%;
+    z-index: 2;
+    top: 91%;
+    left: 8%;
+}
+
+.happiness h1{
+    font-family: zooja-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px;
+    margin-top: 60px !important;
+    padding-left: 137px;
+    letter-spacing: 10px;
+    color: #707070;
+    position: absolute;
+    z-index: 5;
+}
+
+.happiness-one{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 150px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.happiness-two{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 780px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.happiness-three{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 1400px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+/* Confidence */
+
+.backbtn5{
+    width: 6%;
+    position: absolute;
+    margin-bottom: 10%;
+    padding-bottom: 3%;
+    z-index: 2;
+    top: 91%;
+    left: 8%;
+}
+
+.confidence h1{
+    font-family: zooja-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px;
+    margin-top: 60px !important;
+    padding-left: 137px;
+    letter-spacing: 10px;
+    color: #707070;
+    position: absolute;
+    z-index: 5;
+}
+
+.confidence-one{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 150px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.confidence-two{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 780px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.confidence-three{
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+    top: 35%;
+    margin-left: 1400px;
+    float: left;
+    position: absolute;
+    z-index: 12;
+    color:white;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+/* WELCOME PAGE */
+
+.explore h1{
+    font-family: zooja-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px;
+    margin-top: 60px !important;
+    padding-left: 137px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.explore h3{
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: -120px !important;
+    font-size: 25px;
+    padding-left: 300px;
+    letter-spacing: 10px;
+    margin-bottom: 70px;
+    color: #707070;
+}
+
+.explore h2{
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+    padding-left: 10px;
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+    color: #707070;
+}
+
+.explore .topic1{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+
+}
+
+.explore .topic2{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.explore .topic3{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.explore .topic4{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.explore .topic5{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.explore .topic6{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.explore .topic7{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.explore .topic8{
+    padding-left: 137px;
+    padding-top: 10px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    height: 130px;
+    font-style: normal;
+    background-color: #FEC5BB;
+    font-size: 23px;
+    margin-bottom: 40px;
+    letter-spacing: 10px;
+    color: #707070;
+}
+
+.small9{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 185%;
+    left: 38%;
+}
+
+.homebtn9{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top:  185%;
+    left: 18%;
+}
+
+.songbtn9{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top:  185%;
+    left: 28%;
+}
+
+.backbtn6{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top:  185%;
+    left: 8%;
+}
+
+/* Dropdown Button */
+
+h1{
+    text-align: center;
+}
+.dropbtn {
+    background-color: #FEC5BB;
+    color: #707070;
+    padding: 40px;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #caa29a;
+  }
+  
+  .dropdown {
+    left: 42%;
+    position: absolute;
+    z-index: 10;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    /* position: absolute; */
+    align-items: center;
+    padding: 30px;
+    background-color: #FEC5BB;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    right: 0;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: #707070;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+    display: block;
+  }
+  
+  .dropdown a:hover {background-color: #caa29a;}
+  
+  .show {display: block;}
+
+  .small10{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 92%;
+    left: 38%;
+}
+
+.homebtn10{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top:  92%;
+    left: 18%;
+}
+
+.songbtn10{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top:  92%;
+    left: 28%;
+}
+
+.backbtn10{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top:  92%;
+    left: 8%;
 }
