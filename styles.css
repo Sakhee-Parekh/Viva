@@ -324,3 +324,93 @@ h1{
     position: absolute;
     z-index: 8;
 }
+
+/* AFFIRMATONS PAGE */
+
+
+.big4{
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+.homebtn2{
+    width: 6%;
+    position: absolute;
+    margin-bottom: 10%;
+    padding-bottom: 3%;
+    z-index: 2;
+    top: 91%;
+    left: 18%;
+}
+
+.backbtn1{
+    width: 6%;
+    position: absolute;
+    margin-bottom: 10%;
+    padding-bottom: 3%;
+    z-index: 2;
+    top: 91%;
+    left: 8%;
+}
+
+.small7{
+    width: 6%;
+    position: absolute;
+    margin-bottom: 10%;
+    padding-bottom: 3%;
+    z-index: 2;
+    top: 91%;
+    left: 28%;
+}
+
+.aff h1{
+    font-family: zooja-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px;
+    margin-top: 60px !important;
+    padding-left: 137px;
+    letter-spacing: 10px;
+    color: #707070;
+    position: absolute;
+    z-index: 5;
+}
+
+.he{
+    width: 30%;
+    left: 60%;
+    top: 35%;
+    position: absolute;
+    z-index: 10;
+}
+
+
+.we{
+    width: 30%;
+    top: 65%;
+    left: 60%;
+    position: absolute;
+    z-index: 10;
+    margin-top: -10% !important;
+}
+
+
+.co{
+    width: 30%;
+    top: 85%;
+    left: 60%;
+    position: absolute;
+    z-index: 10;
+    margin-top: -15% !important;
+}
+
+
+.ha{
+    width: 30%;
+    top: 105%;
+    left: 60%;
+    position: absolute;
+    z-index: 10;
+    margin-top: -20% !important;
+}
