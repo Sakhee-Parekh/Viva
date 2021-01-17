@@ -153,3 +153,71 @@ h1{
     top: 75%;
     left: 90%;
 }
+
+.small3{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 90%;
+    left: 8%;
+}
+
+.homebtn{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 90%;
+    left: 18%;
+}
+
+.songbtn{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 90%;
+    left: 28%;
+}
+
+
+.small4{
+    width: 6%;
+    position: absolute;
+    z-index: 2;
+    top: 90%;
+    left: 91.5%;
+}
+
+iframe{
+    z-index: 5;
+    position: absolute;
+    align-items: center;
+    top: 29%;
+    left: 10.5%;
+}
+
+.calendar h1{
+    font-family: zooja-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px;
+    margin-top: 60px !important;
+    padding-left: 137px;
+    letter-spacing: 10px;
+    color: #707070;
+    position: absolute;
+    z-index: 5;
+}
+
+.calendar h3{
+    font-family: atten-new, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 190px !important;
+    font-size: 25px;
+    padding-left: 287px;
+    letter-spacing: 10px;
+    margin-bottom: 70px;
+    color: #707070;
+    position: absolute;
+    z-index: 5;
+}
